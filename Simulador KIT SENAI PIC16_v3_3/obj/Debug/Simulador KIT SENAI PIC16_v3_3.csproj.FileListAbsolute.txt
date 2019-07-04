@@ -1,0 +1,17 @@
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\bin\Debug\Simulador KIT SENAI PIC16.exe.config
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\bin\Debug\Simulador KIT SENAI PIC16.exe
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\bin\Debug\Simulador KIT SENAI PIC16.pdb
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\bin\Debug\Library_LPD_UserControl.dll
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador KIT SENAI PIC16_v3_3.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador_KIT_SENAI_PIC16_v3_3.fPrincipal.resources
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador_KIT_SENAI_PIC16_v3_3.FormConversor.resources
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador_KIT_SENAI_PIC16_v3_3.FormInfo.resources
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador_KIT_SENAI_PIC16_v3_3.FormPeriféricos.resources
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador_KIT_SENAI_PIC16_v3_3.FormSobre.resources
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador_KIT_SENAI_PIC16_v3_3.FormTicks.resources
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador_KIT_SENAI_PIC16_v3_3.LCDv2.resources
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador_KIT_SENAI_PIC16_v3_3.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador_KIT_SENAI_PIC16_v3_3.SerialVirtual.resources
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador KIT SENAI PIC16_v3_3.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador KIT SENAI PIC16.exe
+C:\Users\Leandro\Desktop\Projetos C#\Simulador KIT SENAI PIC16_v3_3\Simulador KIT SENAI PIC16_v3_3\obj\Debug\Simulador KIT SENAI PIC16.pdb
